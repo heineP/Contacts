@@ -1,0 +1,14 @@
+C:\Skole\Algoritmiske Metoder\Contacts\Contacts\bin\Debug\net8.0\Contacts.exe
+C:\Skole\Algoritmiske Metoder\Contacts\Contacts\bin\Debug\net8.0\Contacts.deps.json
+C:\Skole\Algoritmiske Metoder\Contacts\Contacts\bin\Debug\net8.0\Contacts.runtimeconfig.json
+C:\Skole\Algoritmiske Metoder\Contacts\Contacts\bin\Debug\net8.0\Contacts.dll
+C:\Skole\Algoritmiske Metoder\Contacts\Contacts\bin\Debug\net8.0\Contacts.pdb
+C:\Skole\Algoritmiske Metoder\Contacts\Contacts\obj\Debug\net8.0\Contacts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Skole\Algoritmiske Metoder\Contacts\Contacts\obj\Debug\net8.0\Contacts.AssemblyInfoInputs.cache
+C:\Skole\Algoritmiske Metoder\Contacts\Contacts\obj\Debug\net8.0\Contacts.AssemblyInfo.cs
+C:\Skole\Algoritmiske Metoder\Contacts\Contacts\obj\Debug\net8.0\Contacts.csproj.CoreCompileInputs.cache
+C:\Skole\Algoritmiske Metoder\Contacts\Contacts\obj\Debug\net8.0\Contacts.dll
+C:\Skole\Algoritmiske Metoder\Contacts\Contacts\obj\Debug\net8.0\refint\Contacts.dll
+C:\Skole\Algoritmiske Metoder\Contacts\Contacts\obj\Debug\net8.0\Contacts.pdb
+C:\Skole\Algoritmiske Metoder\Contacts\Contacts\obj\Debug\net8.0\Contacts.genruntimeconfig.cache
+C:\Skole\Algoritmiske Metoder\Contacts\Contacts\obj\Debug\net8.0\ref\Contacts.dll
